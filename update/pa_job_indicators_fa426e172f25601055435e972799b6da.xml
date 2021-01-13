@@ -3,8 +3,8 @@
         <active>true</active>
         <collect>1</collect>
         <collect_indicator>true</collect_indicator>
-        <display>NeedIt Historical Data - NeedIT: Due Monthly</display>
-        <indicator display_value="NeedIT: Due Monthly">ba999e9f2fe1601055435e972799b6ba</indicator>
+        <display>NeedIt Historical Data - NeedIt: Due Monthly</display>
+        <indicator display_value="NeedIt: Due Monthly">ba999e9f2fe1601055435e972799b6ba</indicator>
         <job display_value="NeedIt Historical Data">0bd1e6572f25601055435e972799b6da</job>
         <sys_class_name>pa_job_indicators</sys_class_name>
         <sys_created_by>admin</sys_created_by>
